@@ -1,0 +1,93 @@
+           Douglas                   Camargo                     de      Campos
+                                     Engenheiro      de Software
+
+
+Objetivo
+Atuar na  área de tecnologia da informação   como   analista de sistemas  ou engenheiro  de  software.
+
+Resumo
+ Engenheiro  de software com  mais  de  6 anos de  experiência  em programação    com  grande  entusi-
+ asmo  por novos desaﬁos.
+
+ Excelentes conhecimentos   em  diferentes linguagens  de programação   e tecnologias, incluindo  C#,
+ C/C++,   Java, Ruby   on Rails, Perl, MySQL,    SQLServer   e PostgreSQL.
+
+ Participação no  desenvolvimento   de aplicações  orientada  a objeto, incluindo  técnicas  de arqui-
+ tetura e design de software. Possui  conhecimento    em metodologias   ágeis como   XP  e Scrum.
+Formação      Acadêmica
+
+ 2009          Bacharel  em  Ciência  da  Computação
+               Universidade   São Judas   Tadeu,  USJT
+ 2007          Aspirante  à Oﬁcial  de  Infantaria
+               Centro  de Preparação    de Oﬁciais  da Reserva  de São  Paulo,  CPOR-SP
+
+
+Atuação     Profissional
+ Perı́odo       Mar.  2010  —  Atual
+ Empresa       CAST    Informática
+ Cargo         Analista  de sistemas
+ Atividades    Desenvolvimento    e gerenciamento    do  SNT   −  Sistema  Nacional  de  Transplantes
+               (Sistema  responsável   por  todo  o transplante   de órgãos  do  Brasil) utilizando   a
+               linguagem   C#  e banco   de dados  SQLServer.
+
+ Perı́odo       Fev.  2007 —   Fev. 2010
+ Empreesa      Radium   Systems
+ Cargo         Analista  de sistemas
+ Atividades    Desenvolvimento    de  diversas  aplicações  em  ambientes   multi-plataformas,   utili-
+               zando  Ruby   on Rails, Pearl, PHP,   C++   e Java.
+ Perı́odo       Jan.  2005 —   Dez.  2005
+ Empresa       Verix  Consultoria  e Desenvolvimento
+ Cargo         Analista  de sistemas
+ Atividades    Desenvolvimento    de aplicativos e APIs  para  Web  com  alto volume  de acesso e alta
+               disponibilidade.  Consultoria  para  desenvolvimento   de  aplicações Web   2.0.
+
+
+                              camargo@gmail.com           (11)  7375-8742
+
+
+Atuação  Acadêmica
+Perı́odo    Jun.  2011  —  Atual
+Empresa    Intellecta Centro  de Estudos  Avançados
+Cargo      Professor
+Atividades Professor  dos cursos  de “Java Orientado  a Objetos”, “Desenvolvimento com C#”
+           e “Desenvolvimento    em  C++”.
+
+Perı́odo    Fev.  2010  —  Dez.  2010
+Empresa    Universidade   Unibero
+Cargo      Professor  Substituto
+Atividades Professor   das  disciplinas “Sistemas  de  Banco  de  Dados”  e “Lógica de Pro-
+           gramação”.
+
+Formação  Complementar
+
+2010       Desenvolvimento    de Apps
+           Google   Brasil
+2009       Desenvolvimento    Web   com  Ruby  on Rails 3 (30h)
+           Caelum    − Ensino  e Inovação
+
+2008       Tópicos   de Programação   (60h)
+           Universidade   de São  Paulo, USP
+2008       Álgebra   Linear (60h)
+           Universidade   de São  Paulo, USP
+
+2007       Introdução   a Linguagem   Java (20h)
+           Universidade   de São  Paulo, USP
+2007       Páginas   Dinamicas  com  PHP   e MySQL   (30h)
+           Universidade   de São  Paulo, USP
+
+2006       Lǵica  de  Programação   (60h)
+           Universidade   de São  Paulo, USP
+2006       Criptologia  de  Arquivos  (20h)
+           Universidade   de São  Paulo, USP
+
+2005       Linux   e Softwares Livres (40h)
+           Universidade   de São  Paulo, USP
+2005       Intensivo  de Matemática
+           Kumon
+
+
+
+
+                          camargo@gmail.com         (11)  7375-8742
+
+
